@@ -27,7 +27,7 @@ To reproduce the SNoJoE score for PASCAL-VOC dataset, please run:
 OoD detection performance comparison using SNoJoE vs. competitive
 baselines.
 
-<img src="./pic/result.png" alt="result" style="zoom: 33%;" />
+<img src="./pic/result.png" alt="result" style="zoom: 25%;" />
 
 
 
