@@ -34,6 +34,13 @@ baselines.
 ## Citation
 
 ```
-
+@misc{mei2024multilabel,
+      title={Multi-Label Out-of-Distribution Detection with Spectral Normalized Joint Energy}, 
+      author={Yihan Mei and Xinyu Wang and Dell Zhang and Xiaoling Wang},
+      year={2024},
+      eprint={2405.04759},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
