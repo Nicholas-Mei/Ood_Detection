@@ -1,12 +1,12 @@
 # Multi-Label Out-of-Distribution Detection with Spectral Normalized Joint Energy
 
 This is a [PyTorch](http://pytorch.org) implementation of [Multi-Label Out-of-Distribution Detection with Spectral Normalized Joint Energy](......) by Yihan Mei, Xinyu Wang, Dell Zhang, Xiaoling Wang.
-Code is modified from [JointEnergy][https://github.com/deeplearning-wisc/multi-label-ood], [ODIN](https://github.com/facebookresearch/odin),  [Outlier Exposure](https://github.com/hendrycks/outlier-exposure), and [deep Mahalanobis
+Code is modified from [JointEnergy](https://github.com/deeplearning-wisc/multi-label-ood), [ODIN](https://github.com/facebookresearch/odin),  [Outlier Exposure](https://github.com/hendrycks/outlier-exposure), and [deep Mahalanobis
 detector](https://github.com/pokaxpoka/deep_Mahalanobis_detector).
 
 ## Datasets
 
-Our experimental configuration of in-distribution and out-of-distribution datasets are identical with [JointEnergy][https://github.com/deeplearning-wisc/multi-label-ood].
+Our experimental configuration of in-distribution and out-of-distribution datasets are identical with [JointEnergy](https://github.com/deeplearning-wisc/multi-label-ood).
 
 Put PASCAL-VOC under ./Pascal folder, and put Texture under ./dtd folder.
 
